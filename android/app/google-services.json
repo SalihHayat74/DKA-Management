@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567886969908",
+    "project_id": "managementofdka",
+    "storage_bucket": "managementofdka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567886969908:android:40af882aa50978f9c75e61",
+        "android_client_info": {
+          "package_name": "com.troika.management_of_dka_abgs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567886969908-aj90c6aapmdv8g04k40evqlhf876ptfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP7-zU060TnqOvjcvFT3ZOon153w03_Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567886969908-aj90c6aapmdv8g04k40evqlhf876ptfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
